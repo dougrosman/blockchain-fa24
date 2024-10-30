@@ -46,7 +46,7 @@ function setup() {
   let numLines = $fx.iteration;
 
   // only draw up to 20 lines
-    for (let i = 0; i < numLines; i++) {
+    for (let i = 0; i < 20; i++) {
       let s = map(i, 0, width / size, 10, 100);
 
       fill(hue, s, 80);
