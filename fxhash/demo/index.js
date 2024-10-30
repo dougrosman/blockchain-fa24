@@ -6,7 +6,7 @@
     $fx.randminter()    // generates a random number based on the minter's wallet address
 
     $fx.rand.reset()    // resets the $fx.rand() function
-    $fx.randminter.reset()  // restes the $fx.randminter() function
+    $fx.randminter.reset()  // resets the $fx.randminter() function
 
     // VARIABLES
     $fx.hash            // the hash of the mint transaction
